@@ -8,7 +8,7 @@
  * Permission     : Permission granted to use, modify and distribute this file 
  *                  with proper reference to the author
  * Author         : Hemanth Sekhar
- * Email          : hemanthsekharofficial@gmail.com
+ * Email          : khsekhar9@gmail.com
  */
 
 class range;
